@@ -1,1 +1,12 @@
-["Hey ${t}, ${i} thinks you are amazing!","${i} wants you to know that you're doing a fantastic job, ${t}!","Keep up the great work, ${t}! From your friend, ${i}.","You have a wonderful smile, ${t}! - Complimented by ${i}","${t}, you're an inspiration! Stay awesome! - ${i}","${i} says you're incredibly talented, ${t}!","${t}, ${i} appreciates your kindness and positivity.","You light up the room, ${t}! - ${i}","${i} believes in you, ${t}. Keep shining!","${t}, you're a star! - Love, ${i}"]
+[
+  "Hey ${t}, ${i} thinks you are amazing!",
+  "${i} wants you to know that you're doing a fantastic job, ${t}!",
+  "Keep up the great work, ${t}! From your friend, ${i}.",
+  "You have a wonderful smile, ${t}! - Complimented by ${i}",
+  "${t}, you're an inspiration! Stay awesome! - ${i}",
+  "${i} says you're incredibly talented, ${t}!",
+  "${t}, ${i} appreciates your kindness and positivity.",
+  "You light up the room, ${t}! - ${i}",
+  "${i} believes in you, ${t}. Keep shining!",
+  "${t}, you're a star! - Love, ${i}"
+]
